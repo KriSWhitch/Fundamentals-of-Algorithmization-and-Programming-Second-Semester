@@ -15,6 +15,6 @@
 - [x] Laboratory work № 12 Binary heaps
 - [x] Laboratory work № 13 Sorting Arrays
 - [x] Laboratory work № 14 Analysis of sorting algorithms
-- [ ] Laboratory work № 15 Hash tables with open addressing
-- [ ] Laboratory work № 16 Hash Tables with Chains
-- [ ] Laboratory work № 17 Development of a project using a doubly linked list
+- [x] Laboratory work № 15 Hash tables with open addressing
+- [x] Laboratory work № 16 Hash Tables with Chains
+- [x] Laboratory work № 17 Development of a project using a doubly linked list
