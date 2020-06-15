@@ -1,0 +1,5 @@
+﻿  MyStack.cpp
+E:\Университет\ОАиП\lab22(extende)\lr7z5v11\MyStack.cpp(87,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Университет\ОАиП\lab22(extende)\lr7z5v11\MyStack.cpp(92,36): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+E:\Университет\ОАиП\lab22(extende)\lr7z5v11\Source.cpp(19,3): error C3861: menu: идентификатор не найден

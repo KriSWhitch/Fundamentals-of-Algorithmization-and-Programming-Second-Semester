@@ -1,0 +1,12 @@
+slovo
+string
+base
+input
+var
+char
+integer
+real 
+bool 
+stream
+block
+color

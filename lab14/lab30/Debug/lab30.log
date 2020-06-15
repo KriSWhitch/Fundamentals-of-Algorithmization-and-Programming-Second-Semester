@@ -1,0 +1,7 @@
+﻿  dop1.cpp
+  dop2.cpp
+  dop3.cpp
+  lab30.cpp
+E:\Университет\ОАиП\passed\lab30\lab30\lab30.cpp(75,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  lab30.vcxproj -> E:\Университет\ОАиП\passed\lab30\Debug\lab30.exe

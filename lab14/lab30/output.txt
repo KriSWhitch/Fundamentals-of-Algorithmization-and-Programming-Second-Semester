@@ -1,0 +1,110 @@
+Size: 10000
+---Selection sort---
+Time: 3979 ticks
+---Quick sort---
+Time: 28 ticks
+---Heap sort---
+Time: 0 ticks
+
+-----------
+
+Size: 11000
+---Selection sort---
+Time: 4831 ticks
+---Quick sort---
+Time: 30 ticks
+---Heap sort---
+Time: 1 ticks
+
+-----------
+
+Size: 12000
+---Selection sort---
+Time: 5504 ticks
+---Quick sort---
+Time: 33 ticks
+---Heap sort---
+Time: 0 ticks
+
+-----------
+
+Size: 13000
+---Selection sort---
+Time: 6385 ticks
+---Quick sort---
+Time: 39 ticks
+---Heap sort---
+Time: 0 ticks
+
+-----------
+
+Size: 14000
+---Selection sort---
+Time: 7619 ticks
+---Quick sort---
+Time: 40 ticks
+---Heap sort---
+Time: 1 ticks
+
+-----------
+
+Size: 15000
+---Selection sort---
+Time: 8890 ticks
+---Quick sort---
+Time: 44 ticks
+---Heap sort---
+Time: 1 ticks
+
+-----------
+
+Size: 16000
+---Selection sort---
+Time: 9950 ticks
+---Quick sort---
+Time: 91 ticks
+---Heap sort---
+Time: 0 ticks
+
+-----------
+
+Size: 17000
+---Selection sort---
+Time: 11242 ticks
+---Quick sort---
+Time: 49 ticks
+---Heap sort---
+Time: 0 ticks
+
+-----------
+
+Size: 18000
+---Selection sort---
+Time: 12596 ticks
+---Quick sort---
+Time: 51 ticks
+---Heap sort---
+Time: 1 ticks
+
+-----------
+
+Size: 19000
+---Selection sort---
+Time: 14046 ticks
+---Quick sort---
+Time: 52 ticks
+---Heap sort---
+Time: 1 ticks
+
+-----------
+
+Size: 20000
+---Selection sort---
+Time: 15942 ticks
+---Quick sort---
+Time: 64 ticks
+---Heap sort---
+Time: 0 ticks
+
+-----------
+
